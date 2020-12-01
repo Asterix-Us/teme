@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2507bf6-9001-44e1-9d8f-e81c4de1aae9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema-POO-2020/checker/checkstyle-8.36.2-all.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tema-POO-2020/checker/checkstyle-8.36.2-all.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema-POO-2020/checker/checkstyle.sh" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tema-POO-2020/checker/checkstyle.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema-POO-2020/checker/poo_checks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tema-POO-2020/checker/poo_checks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_favorite_fail_duplicate.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_favorite_fail_duplicate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_favorite_fail_invalid.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_favorite_fail_invalid.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_large_test_no_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_large_test_no_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_query_no_values.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_query_no_values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_recommendation_invalid_user.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_recommendation_invalid_user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_recommendation_no_values.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_recommendation_no_values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_command_favorite.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_command_favorite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_command_rating_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_command_rating_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_command_rating_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_command_rating_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_command_view.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_command_view.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_average_actors.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_average_actors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_awards_actors.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_awards_actors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_favorite_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_favorite_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_favorite_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_favorite_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_filter_description_actors.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_filter_description_actors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_longest_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_longest_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_longest_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_longest_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_most_viewed_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_most_viewed_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_most_viewed_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_most_viewed_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_rating_movie.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_rating_movie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_rating_show.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_rating_show.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_query_users.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_query_users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_recommendation_best_unseen.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_recommendation_best_unseen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_recommendation_favorite.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_recommendation_favorite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_recommendation_popular.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_recommendation_popular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_recommendation_search.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_recommendation_search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/out_single_recommendation_standard.json" beforeDir="false" afterPath="$PROJECT_DIR$/result/out_single_recommendation_standard.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/ActionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/ActionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/ActorQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/ActorQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/CommandManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/MovieQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/MovieQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/QueryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/QueryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/Recommendation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/Recommendation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/RecommendationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/RecommendationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/UserQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/UserQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/RealtimeDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/RealtimeDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Serial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Serial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/UserFeedback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/UserFeedback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tema1/Tema-POO-2020/Tema-POO-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tema1/Tema-POO-2020/Tema-POO-2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tema1/Tema-POO-2020/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tema1/Tema-POO-2020/checkstyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tema1/Tema-POO-2020/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tema1/Tema-POO-2020/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tema1/Tema-POO-2020/src/entertainment/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tema1/Tema-POO-2020/src/entertainment/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tema1/Tema-POO-2020/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tema1/Tema-POO-2020/src/main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1l4m02eCKLrEW2ioNUyGWHNY8yW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2507bf6-9001-44e1-9d8f-e81c4de1aae9" name="Default Changelist" comment="" />
+      <created>1606864511856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606864511856</updated>
+      <workItem from="1606864513185" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08012bf8-0beb-4e12-8763-552d66eeabf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema-POO-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tema-POO-2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entertainment/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entertainment/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ref/ref_single_query_average_actors.json" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1l1BXKnN7LQhR6HIWc7hDylCNQP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="action" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Tema-POO-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08012bf8-0beb-4e12-8763-552d66eeabf5" name="Default Changelist" comment="" />
+      <created>1606754757002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606754757002</updated>
+      <workItem from="1606754761299" duration="71581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606817984508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606817984508" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1606842384984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606842384984" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606820121381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606820121381" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606805606035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606805606035" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045210" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045210" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045209" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045210" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606856045211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045211" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045210" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045210" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606856045210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606856045210" />
+    <state x="1920" y="25" width="811" height="741" key="dock-window-1" timestamp="1606793818741">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="25" width="811" height="741" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606793818741" />
+    <state x="1920" y="59" width="835" height="796" maximized="true" key="dock-window-10" timestamp="1606819172553">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="59" width="835" height="796" maximized="true" key="dock-window-10/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606819172553" />
+    <state x="1960" y="195" width="949" height="796" key="dock-window-11" timestamp="1606822304233">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1960" y="195" width="949" height="796" key="dock-window-11/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606822304233" />
+    <state x="1927" y="0" width="722" height="761" key="dock-window-12" timestamp="1606829645174">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1927" y="0" width="722" height="761" key="dock-window-12/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606829645174" />
+    <state x="1920" y="0" width="722" height="761" key="dock-window-13" timestamp="1606830787908">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="722" height="761" key="dock-window-13/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606830787908" />
+    <state x="2077" y="154" width="722" height="755" key="dock-window-14" timestamp="1606831766759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2077" y="154" width="722" height="755" key="dock-window-14/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606831766759" />
+    <state x="1920" y="81" width="812" height="774" key="dock-window-2" timestamp="1606799107587">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="81" width="812" height="774" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606799107587" />
+    <state x="1920" y="0" width="812" height="774" key="dock-window-3" timestamp="1606799107587">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="812" height="774" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606799107587" />
+    <state x="1920" y="16" width="812" height="774" key="dock-window-4" timestamp="1606799332648">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="16" width="812" height="774" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606799332648" />
+    <state x="3005" y="247" width="812" height="774" key="dock-window-5" timestamp="1606802947632">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3005" y="247" width="812" height="774" key="dock-window-5/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606802947632" />
+    <state x="1966" y="101" width="954" height="776" key="dock-window-6" timestamp="1606808155186">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1966" y="101" width="954" height="776" key="dock-window-6/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606808155186" />
+    <state x="1920" y="3" width="985" height="776" key="dock-window-7" timestamp="1606808869575">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="3" width="985" height="776" key="dock-window-7/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606808869575" />
+    <state x="2080" y="169" width="794" height="776" maximized="true" key="dock-window-8" timestamp="1606815226658">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2080" y="169" width="794" height="776" maximized="true" key="dock-window-8/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606815226658" />
+    <state x="484" y="67" width="796" height="960" key="dock-window-9" timestamp="1606814247988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="67" width="796" height="960" key="dock-window-9/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606814247988" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606842028348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606842028348" />
+  </component>
+</project>
